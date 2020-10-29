@@ -1,0 +1,16 @@
+{
+	"Tweets" : [
+		{"Stream":false, "texto":"Todo chido"},
+		{"Stream":true, "texto":"Vamos a pasar el rato con Warzone asi es"},
+		{"Stream":false, "texto":"El regreso de AMÉN está cerca"},
+		{"Stream":false, "texto":"Es hoy!!!"},
+		{"Stream":true, "texto":"Estrenando Xbox Series X"},
+		{"Stream":false, "texto":"Cuando te pregunta si te esta gustando"},
+		{"Stream":true, "texto":"Martes de Terror Reaccionando a videos"},
+		{"Stream":true, "texto":"Hoy viernes de variedad Mario Sunshine y Bloodborne"},
+		{"Stream":true, "texto":"Vamos a seguirle al Crash 4"},
+		{"Stream":false, "texto":"Que pedo wey"}
+
+	]
+}
+
